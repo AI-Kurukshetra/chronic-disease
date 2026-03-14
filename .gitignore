@@ -42,6 +42,7 @@ test-results/
 # Build / Cache
 dist/
 tmp/
+.next/
 
 # Local npm caches
 .npm-cache/
