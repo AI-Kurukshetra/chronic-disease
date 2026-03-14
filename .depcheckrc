@@ -1,0 +1,13 @@
+{
+  "ignores": [
+    "autoprefixer",
+    "postcss",
+    "prettier-plugin-tailwindcss"
+  ],
+  "ignore-patterns": [
+    ".next",
+    "coverage",
+    "dist",
+    "node_modules"
+  ]
+}
